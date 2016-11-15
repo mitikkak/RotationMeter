@@ -1,0 +1,6 @@
+.pioenvs
+.piolibdeps
+build
+platformio.ini
+lib
+*.yml
